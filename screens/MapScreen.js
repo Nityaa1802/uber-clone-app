@@ -1,8 +1,6 @@
 import {
   View,
-  Text,
   SafeAreaView,
-  ScrollView,
   TouchableOpacity,
 } from 'react-native';
 import React from 'react';

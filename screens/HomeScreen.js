@@ -1,10 +1,8 @@
 import {
   SafeAreaView,
   StyleSheet,
-  Text,
   View,
   Image,
-  ScrollViewComponent,
 } from 'react-native';
 import React from 'react';
 import tw from 'tailwind-react-native-classnames';
